@@ -19,4 +19,4 @@ A simple interactive quiz application built with **HTML**, **CSS**, and **JavaSc
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/quiz-app.git
+   git clone https://github.com/Mohamednowfil/QuizApp.git
